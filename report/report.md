@@ -1,9 +1,11 @@
 # Big Data Application in the Healthcare Industry
 
 - [ ] author missing
-- [ ] see check report once it is available
+- [ ] see check report 
+- [ ] remove duplicated report in github in Christinas repo, make sure that this one here has the content you need before deleting the other one. We are confused as we do not know which one to grade. It is up to you to let us know while fixing this in the repos
+- [ ] fix README.yml in both repos the project must be the same. make sure 352 is first author 
 
-Cristian Villanueva, ???
+Cristian Villanueva, Christina Colon
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-352/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-352/actions)
 [![Status](https://github.com/cybertraining-dsc/fa20-523-352/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-352/actions)
