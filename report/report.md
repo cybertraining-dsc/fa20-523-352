@@ -1,6 +1,16 @@
 # Big Data Application in the Healthcare Industry
 
-Cristian Villanueva, [fa20-523-340](https://github.com/cybertraining-dsc/fa20-523-340/), 
+- [ ] author missing
+- [ ] see check report once it is available
+
+Cristian Villanueva, ???
+
+[![Check Report](https://github.com/cybertraining-dsc/fa20-523-352/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-352/actions)
+[![Status](https://github.com/cybertraining-dsc/fa20-523-352/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-352/actions)
+Status: in progress, Type: Report
+
+
+[fa20-523-352](https://github.com/cybertraining-dsc/fa20-523-352/), [Edit](https://github.com/cybertraining-dsc/fa20-523-352/blob/main/report/report.md)
 
 {{% pageinfo %}}
 
