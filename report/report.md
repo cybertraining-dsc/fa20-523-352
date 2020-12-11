@@ -14,7 +14,7 @@ Contents
 
 {{% /pageinfo %}}
 
-**Keywords:** EHR, Healthcare, diagnosis, application, treatment, medical
+**Keywords:** EHR, Healthcare, diagnosis, application, treatment, medical, preventive
 
 ## 1.  Introduction
 
