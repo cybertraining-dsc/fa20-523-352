@@ -6,6 +6,7 @@
 - [ ] fix README.yml in both repos the project must be the same. make sure 352 is first author 
 - [ ] all refernces are wrong, see template
 - [ ] you have two figure 1 captions
+- [ ] report does not an concreat scientific methods used for the analysis
 
 Cristian Villanueva, Christina Colon
 
