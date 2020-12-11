@@ -4,6 +4,7 @@
 - [ ] see check report 
 - [ ] remove duplicated report in github in Christinas repo, make sure that this one here has the content you need before deleting the other one. We are confused as we do not know which one to grade. It is up to you to let us know while fixing this in the repos
 - [ ] fix README.yml in both repos the project must be the same. make sure 352 is first author 
+- [ ] all refernces are wrong, see template
 
 Cristian Villanueva, Christina Colon
 
