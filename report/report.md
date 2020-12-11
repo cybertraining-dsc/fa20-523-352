@@ -50,7 +50,7 @@ In a study conducted in 2013 there was an investigation to learn as to why physi
 
 **Figure 1:**. Barriers Physicians Indicate [^3]
 
-![Barries Physicians Indicate] (https://github.com/cybertraining-dsc/fa20-523-352/raw/main/report/images/Barrier.JPEG)
+![Barriers Physicians Indicate](https://github.com/cybertraining-dsc/fa20-523-352/raw/main/report/images/Barrier.JPEG)
 
 
 Figure 1. Indicates the responses of the subjects as to why they’re unable to utilize EHR/EMRs.
