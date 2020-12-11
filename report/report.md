@@ -6,7 +6,8 @@
 - [ ] fix README.yml in both repos the project must be the same. make sure 352 is first author 
 - [ ] all refernces are wrong, see template
 - [ ] you have two figure 1 captions
-- [ ] report does not an concreat scientific methods used for the analysis
+- [ ] report does not look into concreate scientific methods used for the analysis (not even in the examples given)
+- [ ] report is unbalanced. In one section a single Dr. G is always used as an example while other sections use a different writing style. I recommend rewriting that section
 
 Cristian Villanueva, Christina Colon
 
