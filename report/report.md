@@ -51,6 +51,11 @@ ERROR: Line 60: Illeagal quotes are “ ”. Instead use "
 - [ ] Dr. Grone example is from 2015. yet you write she hopes. where is teh follow up, reference is obviously outdated and the out of date is reflected in the text.
 - [ ] title does not match content. only thing is see is a discussion about EHR.
 - [ ] analysis algorithmes what can be done with EHR is not discussed
+- [ ] explosion of data in EHR or medicine not shown
+- [ ] some references are from magazins or informationl resources but not from scholars 
+   <https://scholar.google.com/scholar?q=big+data+ehr+analysis&hl=en&as_sdt=0&as_vis=1&oi=scholart>
+- [ ] an analysis of the EHR in gegrads to big data would have been nice.
+- [ ] figures often say 1000 words
 
 Cristian Villanueva, Christina Colon
 
