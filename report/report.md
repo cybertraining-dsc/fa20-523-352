@@ -5,6 +5,40 @@
 - [ ] filenames muts be lowercase for imagees
 - [ ] author missing
 - [ ] see check report <https://github.com/cybertraining-dsc/fa20-523-352/actions?query=workflow%3A%22Check+Report%22>
+- [ ] go on build tha you will see
+  ```
+ERROR: Refer to the figure by numbered figure. Found below figure
+ERROR: 44: Citation after a . not allowed.
+ERROR: 50: Citation after a . not allowed.
+ERROR: 54: Citation after a . not allowed.
+ERROR: 60: Citation after a . not allowed.
+ERROR: 64: Citation after a . not allowed.
+ERROR: 70: Citation after a . not allowed.
+ERROR: 72: Citation after a . not allowed.
+ERROR: 73: Citation after a . not allowed.
+ERROR: 89: Citation after a . not allowed.
+ERROR: 97: Citation after a . not allowed.
+ERROR: 99: Citation after a . not allowed.
+ERROR: 101: Citation after a . not allowed.
+ERROR: Line 83: Image ending must be one of png, jpg, jpeg.
+ERROR: Line 44: Line ends with spaces. please remove them.
+ERROR: Line 115: http link is not enclosed in < >.
+ERROR: Line 117: http link is not enclosed in < >.
+ERROR: Line 119: http link is not enclosed in < >.
+ERROR: Line 121: http link is not enclosed in < >.
+ERROR: Line 123: http link is not enclosed in < >.
+ERROR: Line 125: http link is not enclosed in < >.
+ERROR: Line 127: http link is not enclosed in < >.
+ERROR: Line 129: http link is not enclosed in < >.
+ERROR: Line 131: http link is not enclosed in < >.
+ERROR: Line 133: http link is not enclosed in < >.
+ERROR: Line 135: http link is not enclosed in < >.
+ERROR: Line 44: Illeagal quotes are “ ”. Instead use " 
+ERROR: Line 50: Illeagal quotes are “ ”. Instead use " 
+ERROR: Line 54: Illeagal quotes are “ ”. Instead use " 
+ERROR: Line 60: Illeagal quotes are “ ”. Instead use " 
+  ```
+- [ ] listen to our videos where we explained how to do the report.
 - [ ] remove duplicated report in github in Christinas repo, make sure that this one here has the content you need before deleting the other one. We are confused as we do not know which one to grade. It is up to you to let us know while fixing this in the repos
 - [ ] fix README.yml in both repos the project must be the same. make sure 352 is first author 
 - [ ] all refernces are wrong, see template
