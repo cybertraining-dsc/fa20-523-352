@@ -121,7 +121,7 @@ EHR as mentioned earlier is digitized health records of patients so that medical
 In a study conducted in 2013 there was an investigation to learn as to why physicians are not adopting the use of EHRs in their practices. A table was established to demonstrate as to why physicians are unable to utilize EHR in their practice.
 
 
-![Barriers Physicians Indicate](https://github.com/cybertraining-dsc/fa20-523-352/raw/main/report/images/Barrier.JPEG)
+![Barriers Physicians Indicate](https://github.com/cybertraining-dsc/fa20-523-352/raw/main/report/images/barrier.JPEG)
 
 **Figure 1:**. Barriers Physicians Indicate [^3]
 
