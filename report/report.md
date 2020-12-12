@@ -80,7 +80,6 @@ In a study conducted in 2013 there was an investigation to learn as to why physi
 ![Barriers Physicians Indicate](https://github.com/cybertraining-dsc/fa20-523-352/raw/main/report/images/Barrier.JPEG)
 
 
-Figure 1. Indicates the responses of the subjects as to why they’re unable to utilize EHR/EMRs.
 
 This is quite an old study so this chart does indicate anything definitive but it has been registered as an actual study and only 7 years have passed when this study was conducted. There are some relevant points that can be applicable to how individual practitioners must handle their practice.
 * Time
