@@ -1,4 +1,4 @@
-# Big Data Application in the Healthcare Industry
+# Big Data in the Healthcare Industry
 
 - [x] figure captions must be below figure
 - [ ] figure must be referenced in text
