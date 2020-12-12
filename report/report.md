@@ -47,6 +47,7 @@ ERROR: Line 60: Illeagal quotes are “ ”. Instead use "
 - [ ] you have two figure 1 captions
 - [ ] report does not look into concreate scientific methods used for the analysis (not even in the examples given)
 - [ ] report is unbalanced. In one section a single Dr. G is always used as an example while other sections use a different writing style. I recommend rewriting that section
+- [ ] sectin 3.1 does not tell how big teh studdy was. other sections have possibly the same issue
 
 Cristian Villanueva, Christina Colon
 
