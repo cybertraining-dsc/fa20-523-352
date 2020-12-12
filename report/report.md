@@ -6,7 +6,8 @@
 - [ ] author missing
 - [ ] see check report <https://github.com/cybertraining-dsc/fa20-523-352/actions?query=workflow%3A%22Check+Report%22>
 - [ ] go on build tha you will see
-  ```
+
+```
 ERROR: Refer to the figure by numbered figure. Found below figure
 ERROR: 44: Citation after a . not allowed.
 ERROR: 50: Citation after a . not allowed.
@@ -37,7 +38,8 @@ ERROR: Line 44: Illeagal quotes are “ ”. Instead use "
 ERROR: Line 50: Illeagal quotes are “ ”. Instead use " 
 ERROR: Line 54: Illeagal quotes are “ ”. Instead use " 
 ERROR: Line 60: Illeagal quotes are “ ”. Instead use " 
-  ```
+```
+
 - [ ] listen to our videos where we explained how to do the report.
 - [ ] remove duplicated report in github in Christinas repo, make sure that this one here has the content you need before deleting the other one. We are confused as we do not know which one to grade. It is up to you to let us know while fixing this in the repos
 - [ ] fix README.yml in both repos the project must be the same. make sure 352 is first author 
