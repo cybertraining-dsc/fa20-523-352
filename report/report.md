@@ -3,7 +3,7 @@
 - [ ] figure captions must be below figure
 - [ ] figure must be referenced in text
 - [ ] filenames muts be lowercase for imagees
-- [ ] author missing
+- [x] author missing. gregor fixed this for you
 - [ ] see check report <https://github.com/cybertraining-dsc/fa20-523-352/actions?query=workflow%3A%22Check+Report%22>
 - [ ] go on build tha you will see (we realy make this easy for you leverage our help!)
 
