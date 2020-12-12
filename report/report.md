@@ -1,5 +1,8 @@
 # Big Data Application in the Healthcare Industry
 
+- [ ] figure captions must be below figure
+- [ ] figure must be referenced in text
+- [ ] filenames muts be lowercase for imagees
 - [ ] author missing
 - [ ] see check report 
 - [ ] remove duplicated report in github in Christinas repo, make sure that this one here has the content you need before deleting the other one. We are confused as we do not know which one to grade. It is up to you to let us know while fixing this in the repos
