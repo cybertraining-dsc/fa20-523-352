@@ -1,6 +1,6 @@
 # Big Data Application in the Healthcare Industry
 
-- [ ] figure captions must be below figure
+- [x] figure captions must be below figure
 - [ ] figure must be referenced in text
 - [ ] filenames muts be lowercase for imagees
 - [x] author missing. gregor fixed this for you
