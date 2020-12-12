@@ -122,6 +122,7 @@ In a study conducted in 2013 there was an investigation to learn as to why physi
 
 
 ![Barriers Physicians Indicate](https://github.com/cybertraining-dsc/fa20-523-352/raw/main/report/images/Barrier.JPEG)
+
 **Figure 1:**. Barriers Physicians Indicate [^3]
 
 
