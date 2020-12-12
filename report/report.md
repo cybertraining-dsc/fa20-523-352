@@ -113,7 +113,7 @@ We would like to thank Dr Gregor von Laszweski for allowing us to complete this 
 
 [^2] Cruciana, Paula A. The Implications of Big Data in Healthcare (2019, November 21) Retrieved December 11, 2020 from https://ieeexplore.ieee.org/document/8970084
 
-[^3] Ajami, S., & Bagheri-Tadi, T. Barriers for Adopting Electronic Health Records (EHRs) by Physicians.(2013, June). Retrieved December 10, 2020 from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3766548/
+[^3] Ajami, S., & Bagheri-Tadi, T. Barriers for Adopting Electronic Health Records (EHRs) by Physicians. (2013, June). Retrieved December 10, 2020 from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3766548/
 
 [^4] Artificial Intelligence-Oppurtunities in Cancer Research. (2020, August 31). Retrieved December 11, 2020 from https://www.cancer.gov/research/areas/diagnosis/artificial-intelligence
 
