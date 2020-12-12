@@ -109,26 +109,26 @@ We would like to thank Dr Gregor von Laszweski for allowing us to complete this 
 
 ## 9. References
 
-[^1] Zlabek, Jonathan A. Early cost and safety benefits of an inpatient electronic health record (2011, February 2) Retrieved December 10, 2020 from https://academic.oup.com/jamia/article/18/2/169/802487
+[^1]: Zlabek, Jonathan A. Early cost and safety benefits of an inpatient electronic health record (2011, February 2) Retrieved December 10, 2020 from https://academic.oup.com/jamia/article/18/2/169/802487
 
-[^2] Cruciana, Paula A. The Implications of Big Data in Healthcare (2019, November 21) Retrieved December 11, 2020 from https://ieeexplore.ieee.org/document/8970084
+[^2]: Cruciana, Paula A. The Implications of Big Data in Healthcare (2019, November 21) Retrieved December 11, 2020 from https://ieeexplore.ieee.org/document/8970084
 
-[^3] Ajami, S., & Bagheri-Tadi, T. Barriers for Adopting Electronic Health Records (EHRs) by Physicians. (2013, June). Retrieved December 10, 2020 from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3766548/
+[^3]: Ajami, S., & Bagheri-Tadi, T. Barriers for Adopting Electronic Health Records (EHRs) by Physicians. (2013, June). Retrieved December 10, 2020 from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3766548/
 
-[^4] Artificial Intelligence-Oppurtunities in Cancer Research. (2020, August 31). Retrieved December 11, 2020 from https://www.cancer.gov/research/areas/diagnosis/artificial-intelligence
+[^4]: Artificial Intelligence-Oppurtunities in Cancer Research. (2020, August 31). Retrieved December 11, 2020 from https://www.cancer.gov/research/areas/diagnosis/artificial-intelligence
 
-[^5] A history of EHRs: 10 things to know. (2015, February 16). Retrieved December 11, 2020 from https://www.beckershospitalreview.com/healthcare-information-technology/a-history-of-ehrs-10-things-to-know.html
+[^5]: A history of EHRs: 10 things to know. (2015, February 16). Retrieved December 11, 2020 from https://www.beckershospitalreview.com/healthcare-information-technology/a-history-of-ehrs-10-things-to-know.html
 
-[^6] Laney, D., AD. Mauro, M., Gubbi, J., Doyle-Lindrud, S., Gillum, R., Reiser, S., . . . Reardon, S. Big data in healthcare: Management, analysis and future prospects (2019, June 19). Retrieved December 10, 2020, from https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0217-0
+[^6]: Laney, D., AD. Mauro, M., Gubbi, J., Doyle-Lindrud, S., Gillum, R., Reiser, S., . . . Reardon, S. Big data in healthcare: Management, analysis and future prospects (2019, June 19). Retrieved December 10, 2020, from https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0217-0
 
-[^7] Moriarty, A. Does Hospital EHR Adoption Actually Improve Data Sharing? (2020, October 23) Retrieved December 10, 2020 from https://blog.definitivehc.com/hospital-ehr-adoption
+[^7]: Moriarty, A. Does Hospital EHR Adoption Actually Improve Data Sharing? (2020, October 23) Retrieved December 10, 2020 from https://blog.definitivehc.com/hospital-ehr-adoption
 
-[^8] Siwicki, B. Next-gen EHRs: Epic, Allscripts and others reveal future of electronic health records. (2018, May 21). Retrieved December 10, 2020 from https://www.healthcareitnews.com/news/next-gen-ehrs-epic-allscripts-and-others-reveal-future-electronic-health-records
+[^8]: Siwicki, B. Next-gen EHRs: Epic, Allscripts and others reveal future of electronic health records. (2018, May 21). Retrieved December 10, 2020 from https://www.healthcareitnews.com/news/next-gen-ehrs-epic-allscripts-and-others-reveal-future-electronic-health-records
 
-[^9] PMI. The Past, Present and Future Of Electronic Health Records.(2019, June 26). Retrieved December 11, 2020 from https://datamatrixmedical.com/future-electronic-health-records/
+[^9]: PMI. The Past, Present and Future Of Electronic Health Records.(2019, June 26). Retrieved December 11, 2020 from https://datamatrixmedical.com/future-electronic-health-records/
 
-[^10] What is an electronic health record (EHR)? (2019, September 10). Retrieved December 10, 2020 from https://www.healthit.gov/faq/what-electronic-health-record-ehr
+[^10]: What is an electronic health record (EHR)? (2019, September 10). Retrieved December 10, 2020 from https://www.healthit.gov/faq/what-electronic-health-record-ehr
 
-[^11] Zhang, R., Simon, G., & Yu, F. Advancing Alzheimer's research: A review of big data promises. (2017, June 4) Retrieved December 11, 2020 from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5590222/
+[^11]: Zhang, R., Simon, G., & Yu, F. Advancing Alzheimer's research: A review of big data promises. (2017, June 4) Retrieved December 11, 2020 from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5590222/
 
 
