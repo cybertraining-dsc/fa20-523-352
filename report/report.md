@@ -4,7 +4,7 @@
 - [ ] figure must be referenced in text
 - [ ] filenames muts be lowercase for imagees
 - [ ] author missing
-- [ ] see check report 
+- [ ] see check report <https://github.com/cybertraining-dsc/fa20-523-352/actions?query=workflow%3A%22Check+Report%22>
 - [ ] remove duplicated report in github in Christinas repo, make sure that this one here has the content you need before deleting the other one. We are confused as we do not know which one to grade. It is up to you to let us know while fixing this in the repos
 - [ ] fix README.yml in both repos the project must be the same. make sure 352 is first author 
 - [ ] all refernces are wrong, see template
