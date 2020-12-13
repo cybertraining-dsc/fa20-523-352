@@ -1,7 +1,5 @@
 # Big Data in the Healthcare Industry
 
-- [ ] whnw using images they maust have file name with lower case letter: is a file name such a sname.JPG all lower case? No
-
 Cristian Villanueva, Christina Colon
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-352/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-352/actions)
