@@ -1,9 +1,5 @@
 # Big Data in the Healthcare Industry
 
-- [x] author missing. gregor fixed this for you
-- [x] see check report <https://github.com/cybertraining-dsc/fa20-523-352/actions?query=workflow%3A%22Check+Report%22>
-
-
 Cristian Villanueva, Christina Colon
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-352/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-352/actions)
