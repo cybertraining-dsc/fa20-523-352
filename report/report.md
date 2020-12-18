@@ -4,7 +4,7 @@ Cristian Villanueva, Christina Colon
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-352/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-352/actions)
 [![Status](https://github.com/cybertraining-dsc/fa20-523-352/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-352/actions)
-Status: in progress, Type: Report 
+Status: final, Type: Report 
 
 
 [fa20-523-352](https://github.com/cybertraining-dsc/fa20-523-352/), [Edit](https://github.com/cybertraining-dsc/fa20-523-352/blob/main/report/report.md)
@@ -33,7 +33,7 @@ EHR stands for 'electronic health records' and is a digital version of a patient
 
 ### 2.1 EHR Application: Detecting Error and Reducing Costs
 
-In order to understand the impact that Big Data such as EHRs has on the Healthcare industry an example of research is presented in the form of collection before and after implementation of EHR. The research study collected data for the period of 1 year before EHR (pre-EHR) and 1 year after EHR (post-EHR) implementation. What was noticed in the analyzes of the data was in the area of 'Medication errors and near misses” the research stated “medication errors per 1000 hospital days decreased 14.0%-from 17.9% in the pre-EHR period to 15.4% in the 9 months after CPOE implementation'[^1]. The research determined that with implementation of EHR with (CPOE) computerized provider order entry was able to reduce the costs of treatment and improvised upon the safety of their patients. Participants of the study mentioned that there was an increase in speed when it came to pharmacy, laboratory and radiology orders. The research also stated 'our study demonstrated an 18% reduction in laboratory testing'. The study touched upon the rapidness that EHR can add to a process of treatment when orders are validated much quicker and hospitals and patients save money from the rapid diagnosis and treatment. This cuts out the middle-man of deliberate testing and examinations upon patients so they don’t have to cover the costs or undergo wasteful testing from their own EHR and other extensive EHR that it utilizes for comparison.
+In order to understand the impact that Big Data such as EHRs has on the Healthcare industry an example of research is presented in the form of collection before and after implementation of EHR. The research study collected data for the period of 1 year before EHR (pre-EHR) and 1 year after EHR (post-EHR) implementation. What was noticed in the analyzes of the data was in the area of 'Medication errors and near misses' the research stated 'medication errors per 1000 hospital days decreased 14.0%-from 17.9% in the pre-EHR period to 15.4% in the 9 months after CPOE implementation'[^1]. The research determined that with implementation of EHR with (CPOE) computerized provider order entry was able to reduce the costs of treatment and improvised upon the safety of their patients. Participants of the study mentioned that there was an increase in speed when it came to pharmacy, laboratory and radiology orders. The research also stated 'our study demonstrated an 18% reduction in laboratory testing'. The study touched upon the rapidness that EHR can add to a process of treatment when orders are validated much quicker and hospitals and patients save money from the rapid diagnosis and treatment. This cuts out the middle-man of deliberate testing and examinations upon patients so they don’t have to cover the costs or undergo wasteful testing from their own EHR and other extensive EHR that it utilizes for comparison.
 
 
 ![Reduction in Medication Errors](https://github.com/cybertraining-dsc/fa20-523-352/raw/main/report/images/medicationerr.png)
@@ -67,7 +67,7 @@ AI in cardiovascular disease models are innovating disease detection by segmenti
 By using a combination of recurrent neural networks and convolutional neural networks artificial intelligence is able to go beyond what currently exists in terms of medical analysis and provide optimum results for patients in need. Recurrent neural networks function by building upon past data in order to create new output in series. They work hand in hand with Convolutional Neural networks which focus on analyzing advanced imagery based on qualitative data and can weigh biases on potential prescriptive outcomes.
 
 
-![AI Learning Wireframe](https://github.com/cybertraining-dsc/fa20-523-352/raw/main/report/images/cardioai.jpeg) [^10]
+![AI Learning Wireframe](https://github.com/cybertraining-dsc/fa20-523-352/raw/main/report/images/cardioai.jpeg)[^10]
 
 **Figure 3.** Demonstrates a wireframe of how data is computed to draw relevant conclusions from thousands of images and pinpoint exact predictions of diagnosis. Risk analysis is crucial for heart attack prevention and understanding how suspeectable a person is to heart failure. Being that heart attacks can lead to strokes due to loss of blood and oxygen to the brain, these imaging tools serve as an invaluable life saving mechanism to help bring prevention to the forefront of these medical emergencies.
 
