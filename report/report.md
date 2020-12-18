@@ -4,7 +4,7 @@ Cristian Villanueva, Christina Colon
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-352/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-352/actions)
 [![Status](https://github.com/cybertraining-dsc/fa20-523-352/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-352/actions)
-Status: in progress, Type: Report 
+Status: final, Type: Report 
 
 
 [fa20-523-352](https://github.com/cybertraining-dsc/fa20-523-352/), [Edit](https://github.com/cybertraining-dsc/fa20-523-352/blob/main/report/report.md)
