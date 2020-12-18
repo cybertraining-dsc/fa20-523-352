@@ -4,7 +4,7 @@ Cristian Villanueva, Christina Colon
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-352/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-352/actions)
 [![Status](https://github.com/cybertraining-dsc/fa20-523-352/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-352/actions)
-Status: final, Type: Report 
+Status: in progress, Type: Report 
 
 
 [fa20-523-352](https://github.com/cybertraining-dsc/fa20-523-352/), [Edit](https://github.com/cybertraining-dsc/fa20-523-352/blob/main/report/report.md)
@@ -25,7 +25,7 @@ Contents
 
 ## 1.  Introduction
 
-Healthcare is a multi-dimensional system established with the aim of the prevention, diagnosis, and treatment of health-related issues or impairments in human beings[^4]. The many dimensions of Healthcare can be characterized by the influx of information coming and going from each level as there are multiple different applications of Healthcare. These applications can include but are not limited to vaccines, surgeries, x-rays, medicines/treatments. Big data plays a pivotal role in Healthcare diagnostics, predictions, and accelerated results/outcomes of these applications. Big Data has the ability to save millions of dollars through automating 40% of radiologist’s tasks, saving time on potential treatments through digital patients, and by providing improved outcomes. With higher accuracy rates of diagnosis and advanced AI is able to transform hypothetical analysis into data driven diagnosis and treatment strategies.
+Healthcare is a multi-dimensional system established with the aim of the prevention, diagnosis, and treatment of health-related issues or impairments in human beings[^4]. The many dimensions of Healthcare can be characterized by the influx of information coming and going from each level as there are multiple different applications of Healthcare. These applications can include but are not limited to vaccines, surgeries, x-rays, medicines/treatments. Big data plays a pivotal role in Healthcare diagnostics, predictions, and accelerated results/outcomes of these applications. Big Data has the ability to save millions of dollars through automating 40% of radiologist’s tasks, saving time on potential treatments through digital patients, and by providing improved outcomes[^4]. With higher accuracy rates of diagnosis and advanced AI is able to transform hypothetical analysis into data driven diagnosis and treatment strategies.
 
 ## 2. Patient Records
 
@@ -36,7 +36,7 @@ EHR stands for 'electronic health records' and is a digital version of a patient
 In order to understand the impact that Big Data such as EHRs has on the Healthcare industry an example of research is presented in the form of collection before and after implementation of EHR. The research study collected data for the period of 1 year before EHR (pre-EHR) and 1 year after EHR (post-EHR) implementation. What was noticed in the analyzes of the data was in the area of 'Medication errors and near misses' the research stated 'medication errors per 1000 hospital days decreased 14.0%-from 17.9% in the pre-EHR period to 15.4% in the 9 months after CPOE implementation'[^1]. The research determined that with implementation of EHR with (CPOE) computerized provider order entry was able to reduce the costs of treatment and improvised upon the safety of their patients. Participants of the study mentioned that there was an increase in speed when it came to pharmacy, laboratory and radiology orders. The research also stated 'our study demonstrated an 18% reduction in laboratory testing'. The study touched upon the rapidness that EHR can add to a process of treatment when orders are validated much quicker and hospitals and patients save money from the rapid diagnosis and treatment. This cuts out the middle-man of deliberate testing and examinations upon patients so they don’t have to cover the costs or undergo wasteful testing from their own EHR and other extensive EHR that it utilizes for comparison.
 
 
-![Reduction in Medication Errors](https://github.com/cybertraining-dsc/fa20-523-352/raw/main/report/images/medicationerr.png)
+![Reduction in Medication Errors](https://github.com/cybertraining-dsc/fa20-523-352/raw/main/report/images/medicationerr.PNG)
 
 **Figure 1.** Displays the overview of the events over 1000 hospital days and the analysis of the medication errors and near misses that occurred before the implementation of EHR systems and after the implementation of the EHR system. The effectiveness of the EHR system resulted in lowering the number of medication errors granted by the hospital. However in doing so increased the number of near misses for the hospital.
 
@@ -46,7 +46,7 @@ In order to understand the impact that Big Data such as EHRs has on the Healthca
 AI is modifying early detection of cancer as models are capable of being more accurate and precise with the analysis of mass and cell images. The difficulty of diagnosing cancer is because of the possibilities of either the mass being benign or malignant. The amount of time overlooking the cell nuclei and its features to either determine if it is malignant or benign can be staggering for oncologists. Utilizing the information of what's known about cancer can train AI to be calibrated to scour through several images and screenings of cell nuclei to find the key indicators. These key indicators can also be whittled down even further as there is AI to determine which indicators have the highest correlation with malignant cancer. As a dataset from Kaggle consisting of 569 cases of malignant and benign breast cancer, it represented 357 cases of benign and 212 of malignant. With that information there were initially 33 features that may have indicated malignancy in these cases. The 33 features were reduced to 10 features as not all of them equally displayed the same level of contribution to the diagnosis. Across the 10 features there were 5 features that demonstrated the highest correlation to the malignancy. Several models were adapted to find the highest accuracy and precision. This form of AI detection improves upon the efficacy of early cancer detection.
 
 
-![AI Models Demonstrate Accuracy & Precision](https://github.com/cybertraining-dsc/fa20-523-352/raw/main/report/images/aimodels.png)
+![AI Models Demonstrate Accuracy & Precision](https://github.com/cybertraining-dsc/fa20-523-352/raw/main/report/images/aimodels.PNG)
 
 **Figure 2.** Demonstrates how AI in this study used images to cross-analyze features of a patient's results to verify what model is the most accurate and precise to determine which model can best serve a physician in their diagnostic report.
 
@@ -67,7 +67,7 @@ AI in cardiovascular disease models are innovating disease detection by segmenti
 By using a combination of recurrent neural networks and convolutional neural networks artificial intelligence is able to go beyond what currently exists in terms of medical analysis and provide optimum results for patients in need. Recurrent neural networks function by building upon past data in order to create new output in series. They work hand in hand with Convolutional Neural networks which focus on analyzing advanced imagery based on qualitative data and can weigh biases on potential prescriptive outcomes.
 
 
-![AI Learning Wireframe](https://github.com/cybertraining-dsc/fa20-523-352/raw/main/report/images/cardioai.jpeg)[^10]
+![AI Learning Wireframe](https://github.com/cybertraining-dsc/fa20-523-352/raw/main/report/images/cardioai.PNG)[^10]
 
 **Figure 3.** Demonstrates a wireframe of how data is computed to draw relevant conclusions from thousands of images and pinpoint exact predictions of diagnosis. Risk analysis is crucial for heart attack prevention and understanding how suspeectable a person is to heart failure. Being that heart attacks can lead to strokes due to loss of blood and oxygen to the brain, these imaging tools serve as an invaluable life saving mechanism to help bring prevention to the forefront of these medical emergencies.
 
@@ -78,7 +78,7 @@ A digital patient is the idea that a patient’s health record can be compiled w
 In order to produce deep learning results, models must be implemented by indicating genetic markers by which computational methods can traverse the genetics strands and draw relevant conclusions. In this way data can be processed to propose changes to disease carrying chains of DNA or fortify immune based responses in those who are immunocompromised[^9].
 
 
-![Genomics Illustration](https://github.com/cybertraining-dsc/fa20-523-352/raw/main/report/images/genomics.jpg)
+![Genomics Illustration](https://github.com/cybertraining-dsc/fa20-523-352/raw/main/report/images/genomics.PNG)
 
 **Figure 4.**  Illustrates how genes are analysed through data collection methods such as EHR, personal biometric data, and family history in order to track what type of disease poses a threat and how to prevent, predict, and treat disease at the molecular level. Producing accurate methods of treatments, medications as well as predictions without having to put the patient through any trials.
 
