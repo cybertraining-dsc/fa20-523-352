@@ -1,4 +1,14 @@
-# Big Data in the Healthcare Industry
+---
+date: 2021-03-15
+title: Big Data in the Healthcare Industry
+linkTitle: Healthcare
+tags: ["report", "ai", "health"]
+description: 
+author: Cristian Villanueva, Christina Colon
+resources:
+- src: "**.{png,jpg}"
+  title: "Image #:counter"
+---
 
 Cristian Villanueva, Christina Colon
 
