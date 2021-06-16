@@ -3,7 +3,7 @@ date: 2021-03-15
 title: Big Data in the Healthcare Industry
 linkTitle: Healthcare
 tags: ["report", "ai", "health"]
-description: 
+description: "Healthcare is an organized provision of medical practices provided to individuals or a community. Over centuries the application of innovative healthcare has been needed increasingly as humans expand their life span and become more aware of better preventative care practices. The application of Big Data within the industry of Healthcare is of the utmost importance in order to quantify the effects of wide scale efficient and safe solutions. Pharmaceutical and Bio Data Research companies can use big data to intake large facets of patient record data and use this collected data to iterate how preventative care can be implemented before diseases actually present themselves in stages that are beyond the point of potential recovery. Data collected in laboratory settings and statistics collected from medical and state institutions of healthcare facilitate time, money, and life saving initiatives as deep learning can in certain instances perform better than the average doctor at detecting malignant cells. Big data within healthcare has proven great results for the advancement and diverse application of informed reasoning towards medical solutions."
 author: Cristian Villanueva, Christina Colon
 resources:
 - src: "**.{png,jpg}"
